@@ -1,0 +1,23 @@
+{
+  "name": "practicasemana16",
+  "version": "1.0.0",
+  "description": "This is my first NodeJs practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BrVenturaU/first-node-practice.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Js"
+  ],
+  "author": "BrVenturaU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrVenturaU/first-node-practice/issues"
+  },
+  "homepage": "https://github.com/BrVenturaU/first-node-practice#readme"
+}
